@@ -1,0 +1,11 @@
+{
+  "name": "Diwan-e-Hikma",
+  "version": "0.1",
+  "description": "Marco ético y deliberativo para el uso de IA en decisiones públicas",
+  "license": "MIT",
+  "creator": "Abdul Majid Cortés",
+  "language": "multilingüe",
+  "tags": ["IA ética", "soberanía digital", "tasawuf", "sistemas deliberativos", "inteligencia artificial"],
+  "dataset_type": "propuesta filosófica-operativa",
+  "status": "borrador inicial"
+}
